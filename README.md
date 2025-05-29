@@ -35,7 +35,7 @@ The normalized schema comprises key entities such as:
 4. Use the ER diagrams (`contact_er_diagram.jpg`, `target_er_diagram.jpg`) for visual schema reference.
 
 
-## = Author
+##  Author
 
 **Suma Tata**  
 MS in  Data Science, University of Delaware  
